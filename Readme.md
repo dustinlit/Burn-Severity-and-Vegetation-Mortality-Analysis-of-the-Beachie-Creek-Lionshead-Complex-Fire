@@ -1,5 +1,10 @@
 # Burn Severity and Vegetation Mortality Analysis of the Beachie Creek–Lionshead Complex Fire
 
+![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
+[![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/)
+
+---
+
 **Author:** Dustin Littlefield
 
 **Project Type:** Remote Sensing & Wildfire Ecology
@@ -8,7 +13,7 @@
 
 ---
 ## Overview
- Remote sensing based analysis of the social and ecological impacts of the 2020 Beachie-Creek Lionshead Complex fire in Oregon. Utilized Sentinel-2 satellite imagery to capture vegetation conditions from before and after the fire. Classify burn severity according to USGS recommended dNBR levels. Analyze tree mortality by species and age.
+This project provides a remote sensing-based evaluation of the social and environmental consequences of the 2020 Beachie Creek–Lionshead Complex fire in Oregon.
 
 <p align="center">
   <img src="Burn_Severity_Detroit.jpg" width="600" title="Beachie Creek Burn Severity">
@@ -16,18 +21,26 @@
 
 ## Methodology
 
-**Data Source**: Sentinel-2B Imagery was obtained from the Copernicus Data Space Ecosystem (CDSE)
+**Data Source**: Sentinel-2B Imagery obtained from the Copernicus Data Space Ecosystem (CDSE)
 
-**Dates Analyzed**:  July 31, 2020, October 29, 2020
+**Dates Analyzed**:  
+*pre-fire*: July 31, 2020 <br> 
+*post-fire*: October 29, 2020
 
 **Indices:**
 - NBR (Normalized Burn Ratio): Used to identify burned areas.
 - dNBR (delta Normalized Burn Ratio): Used to classify burn severity according to USGS standards.
 - NDVI (Normalized Difference Vegetation Index): Used to assess pre-fire vegetation health and post-fire mortality.
 
-**Analysis**:
-- Indentify regions of highest burn severity
-- Analyze tree mortality by species and age
+## Analysis
+
+1) Burn Severity Mapping
+    - Identify hot-spots of highest burn severity
+    - Analyze severity surrounding impacted communities
+2) Quantify Vegetative Impact
+    - Total biomass loss
+    - Loss by species of tree
+    - Loss by tree age
 
 ## Results
 The analysis reveals distinct differences in both fires:
@@ -39,10 +52,3 @@ The analysis reveals distinct differences in both fires:
 - **Lionshead**
     - patchier severity with more pockets of low severity 
     - Tree mortality highest in young growth forests. 
-
-## Full Report
- Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/
-
-<p align="center">
-  <img src="Burn_Severity_Detroit.jpg" width="600" title="Beachie Creek Burn Severity">
-</p>
