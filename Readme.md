@@ -39,8 +39,8 @@ This project provides a remote sensing-based evaluation of the social and enviro
     - Analyze severity surrounding impacted communities
 2) Quantify Vegetative Impact
     - Total biomass loss
-    - Loss by species of tree
-    - Loss by tree age
+    - Mortality by species of tree
+    - Mortality by age of tree
 
 ## Results
 The analysis reveals distinct differences in both fires:
