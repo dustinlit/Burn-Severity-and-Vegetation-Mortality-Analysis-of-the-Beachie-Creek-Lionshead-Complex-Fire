@@ -1,3 +1,5 @@
+# Burn Severity and Vegetation Mortality Analysis of the Beachie Creek–Lionshead Complex Fire
+
 Author: Dustin Littlefield\
 Date: March 08, 2026\
 `Wildfire Analysis` `Remote Sensing` `NDVI` `NBR` `Sentinel-2` `Burn Severity`
