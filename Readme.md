@@ -3,6 +3,7 @@
 Author: Dustin Littlefield\
 Date: March 08, 2026\
 `Wildfire Analysis` `Remote Sensing` `NDVI` `NBR` `Sentinel-2` `Burn Severity`
+[Github Repository](https://github.com/dustinlit/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire)
 
 ## Introduction
 In recent years, wildfires in the northwest have grown increasingly severe and more frequent. Halofsky et al. (2020) explains that increasing temperatures due to the shifting climate are producing increased fuel dryness, increased evaporative demand, and decreased soil moisture. As these conditions shift, there is likely to be increases in both the number of wildfire events and the area of forest burned per event. 
