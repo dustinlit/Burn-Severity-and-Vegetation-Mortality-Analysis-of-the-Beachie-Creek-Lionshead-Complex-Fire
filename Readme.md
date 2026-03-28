@@ -10,7 +10,12 @@
 ## Overview
  Remote sensing based analysis of the social and ecological impacts of the 2020 Beachie-Creek Lionshead Complex fire in Oregon. Utilized Sentinel-2 satellite imagery to capture vegetation conditions from before and after the fire. Classify burn severity according to USGS recommended dNBR levels. Analyze tree mortality by species and age.
 
+<p align="center">
+  <img src="Burn_Severity_Detroit.jpg" width="600" title="Beachie Creek Burn Severity">
+</p>
+
 ## Methodology
+
 **Data Source**: Sentinel-2B Imagery was obtained from the Copernicus Data Space Ecosystem (CDSE)
 
 **Dates Analyzed**:  July 31, 2020, October 29, 2020
@@ -39,5 +44,5 @@ The analysis reveals distinct differences in both fires:
  Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/
 
 <p align="center">
-  <img src="Beachie_Creek_Lionshead_Overview.jpg" width="600" title="Beachie Creek Burn Severity">
+  <img src="Burn_Severity_Detroit.jpg" width="600" title="Beachie Creek Burn Severity">
 </p>
