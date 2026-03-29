@@ -2,14 +2,13 @@
 
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
 [![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/)
+[![Repository](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/dustinlit/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire)
 
----
-
-**Author:** Dustin Littlefield
-
-**Project Type:** Remote Sensing & Wildfire Ecology
-
-**Tags:** `Wildfire Analysis` `Remote Sensing` `ArcGIS Pro` `NDVI` `NBR` `dNBR` `Sentinel-2` `Burn Severity` `Ecological Impact` `Social Impact`
+**Author:** Dustin Littlefield  
+**Portfolio:** https://github.com/dustinlit  
+**Project Type:** `Remote Sensing` `Wildfire Ecology` `Spatial Analysis`  
+**Technologies:** `ArcGIS Pro` `Python` `Sentinel-2` `NDVI` `NBR` `dNBR`  
+**Last Updated:** March 2026
 
 ---
 ## Overview
