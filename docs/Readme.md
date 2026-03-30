@@ -155,7 +155,7 @@ Figure 4 visualizes the Beachie Creek and Lionshead fires as classified with the
 </figure>
 
 <figure>
-  <<figcaption style="font-size:0.9em; margin-bottom:8px;">
+  <figcaption style="font-size:0.9em; margin-bottom:8px;">
     <strong>Table 4.</strong> Burn classification statistics for the Beachie Creek–Lionshead Complex.
   </figcaption>
   <img src="Images/table_4.jpg" width="600" alt="Burn classification statistics for the Beachie Creek–Lionshead Complex">
