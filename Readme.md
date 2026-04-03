@@ -14,9 +14,21 @@
 ## Overview
 This project provides a remote sensing-based evaluation of the social and environmental consequences of the 2020 Beachie Creek–Lionshead Complex fire in Oregon.
 
-<p align="center">
-  <img src="Burn_Severity_Detroit.jpg" width="600" title="Beachie Creek Burn Severity">
-</p>
+<figure>
+  <figcaption style="font-size:0.9em; margin-bottom:8px;">
+    <strong>Figure.</strong> Burn severity classification of Detroit and Idanha communities.<br>
+    <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
+    Source: Copernicus Data Space Ecosystem (Sentinel‑2B MSI), European Union/ESA</em>
+  </figcaption>
+  <img src="Burn_Severity_Detroit.jpg" width="700" alt="Burn severity classification map of the Detroit and Idanha communities">
+</figure>
+
+<figure>
+  <figcaption style="font-size:0.9em; margin-bottom:8px;">
+    <strong>Table.</strong> Age‑class mortality statistics for the Beachie Creek and Lionshead fires.
+  </figcaption>
+  <img src="table_7.jpg" width="500" alt="Age-class mortality statistics for the Beachie Creek and Lionshead fires">
+</figure>
 
 ## Methodology
 
