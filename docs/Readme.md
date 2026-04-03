@@ -20,7 +20,7 @@ In 2020, the Beachie Creek-Lionshead complex fire devastated a large section of 
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
     <strong>Figure 1.</strong> Overview of the burned area for the Beachie Creek–Lionshead Complex.<br>
-    <em>Map Author: Dustin Littlefield — PCS: WGS 1984 UTM 10N<br>
+    <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Oregon Department of Forestry (2022)</em>
   </figcaption>
   <img src="Images/Beachie_Creek_Lionshead_Overview.jpg" width="700" alt="Overview map of the Beachie Creek–Lionshead Complex burn area">
@@ -41,7 +41,7 @@ Two Sentinel-2B swaths (10TEQ and 10TFQ) were required to encompass the study ar
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
     <strong>Figure 2.</strong> False color SWIR2–NIR–Red composite of the Beachie Creek and Lionshead fire perimeters (Oct 29, 2020).  
-    <em>Map Author: Dustin Littlefield — PCS: WGS 1984 UTM 10N.  
+    <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N.  
     Source: Copernicus Data Space Ecosystem (Sentinel‑2B MSI), European Union/ESA.</em>
   </figcaption>
   <img src="Images/False_Color_Beachie_Creek_Lionshead.jpg" width="700">
@@ -74,7 +74,7 @@ The Normalized Difference Vegetation Index (NDVI) is a commonly used metric to g
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
     <strong>Figure 3.</strong> NDVI overlays of Sentinel‑2B images from pre‑ and post‑fire. Higher NDVI values (0.4–0.8, green) indicate healthy vegetation, and lower values (0–0.4, pink) indicate vegetation loss or bare soil.<br>
-    <em>Map Author: Dustin Littlefield — PCS: WGS 1984 UTM 10N<br>
+    <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Copernicus Data Space Ecosystem (Sentinel‑2B MSI), European Union/ESA</em>
   </figcaption>
   <img src="Images/NDVI_Beacie_Creek_Lionshead.jpg" width="600" alt="NDVI overlays of pre- and post-fire Sentinel-2B imagery for the Beachie Creek–Lionshead Complex">
@@ -167,7 +167,7 @@ The most devastating social impacts of the fires were seen in the small communit
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
     <strong>Figure 5.</strong> Burn severity classification of Detroit and Idanha communities.<br>
-    <em>Map Author: Dustin Littlefield — PCS: WGS 1984 UTM 10N<br>
+    <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Copernicus Data Space Ecosystem (Sentinel‑2B MSI), European Union/ESA</em>
   </figcaption>
   <img src="Images/Burn_Severity_Detroit.jpg" width="700" alt="Burn severity classification map of the Detroit and Idanha communities">
@@ -178,7 +178,7 @@ In the western region of the Cascades, the Beachie Creek fire threatened several
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
     <strong>Figure 6.</strong> Burn severity classification of the Beachie Creek fire near Western Cascade communities.<br>
-    <em>Map Author: Dustin Littlefield — PCS: WGS 1984 UTM 10N<br>
+    <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Copernicus Data Space Ecosystem (Sentinel‑2B MSI), European Union/ESA</em>
   </figcaption>
   <img src="Images/Burn_Severity_Gates.jpg" width="700" alt="Burn severity classification map of the Beachie Creek fire near Western Cascade communities">
@@ -189,7 +189,7 @@ In the Eastern Cascades, the Lionshead fire burnt a large swath of the Warm Spri
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
     <strong>Figure 7.</strong> Burn severity classification of the Lionshead fire in Warm Springs Reservation.<br>
-    <em>Map Author: Dustin Littlefield — PCS: WGS 1984 UTM 10N<br>
+    <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Copernicus Data Space Ecosystem (Sentinel‑2B MSI), European Union/ESA</em>
   </figcaption>
   <img src="Images/Burn_Severity_Warm_Springs.jpg" width="700" alt="Burn severity classification map of the Lionshead fire in the Warm Springs Reservation">
@@ -219,7 +219,7 @@ Figure 8 shows the distribution of key species throughout the burn area in 2018.
 <figure>
   <figcaption style="font-size:0.9em; margin-bottom:8px;">
     <strong>Figure 8.</strong> Ecological land cover of the Beachie Creek–Lionshead area in 2018.<br>
-    <em>Map Author: Dustin Littlefield — PCS: WGS 1984 UTM 10N<br>
+    <em>Map Author: Dustin Littlefield PCS: WGS 1984 UTM 10N<br>
     Source: Institute for Natural Resources (2018)</em>
   </figcaption>
   <img src="Images/Land_Cover.jpg" width="700" alt="Ecological land cover map of the Beachie Creek–Lionshead area in 2018">
