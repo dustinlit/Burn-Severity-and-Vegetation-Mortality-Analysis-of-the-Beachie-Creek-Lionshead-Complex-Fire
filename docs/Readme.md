@@ -1,6 +1,4 @@
----
-title: "Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire"
----
+# Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire
 
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
 [![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/)
