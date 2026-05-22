@@ -49,8 +49,8 @@ Two Sentinel-2B swaths (10TEQ and 10TFQ) were required to encompass the study ar
 
 ## Methodology and Results
 
-Normalized Difference Vegetation Index (NDVI)
-The Normalized Difference Vegetation Index (NDVI) is a commonly used metric to give a general assessment of post fire vegetative health and measure the degree biomass loss. Healthy and growing plants absorb red light to produce energy by photosynthesis and reflect light in the near infrared spectrum, while burned or dead vegetation have the opposite spectral signature.  Calculations for this case use Sentinel-2B Multispectral Instrument (MSI) bands 8 (NIR) and 4 (Red). The NDVI is calculated with the formula:
+### Normalized Difference Vegetation Index (NDVI)
+The Normalized Difference Vegetation Index (NDVI) is a commonly used metric to give a general assessment of post fire vegetative health and measure the degree of biomass loss. Healthy and growing plants absorb red light to produce energy by photosynthesis and reflect light in the near infrared spectrum, while burned or dead vegetation have the opposite spectral signature.  Calculations for this case use Sentinel-2B Multispectral Instrument (MSI) bands 8 (NIR) and 4 (Red). The NDVI is calculated with the formula:
 
 <math display="block">
   <mrow>
